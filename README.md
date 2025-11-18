@@ -408,15 +408,15 @@ Add the following feature flags:
 
 Landing page when AppConfig feature flag `TravelApp.HotelBooking` is enabled
 
-![Landing Page with Hotel Booking Enabled](./Screenshots/HotelBookingEnabled.png)
+![Landing Page with Hotel Booking Enabled](./MauiAppConfigDemo/Screenshots/HotelBookingEnabled.png)
 
 Clicking on Hotel Booking card
 
-![Hotel Booking Feature](./Screenshots/HotelBookingFeature.png)
+![Hotel Booking Feature](./MauiAppConfigDemo/Screenshots/HotelBookingFeature.png)
 
 Refreshing app after disabling `TravelApp.HotelBooking` feature flag in App Configuration portal
 
-![Refresh Page after Hotel Booking Disabled](./Screenshots/HotelBookingDisabled.png)
+![Refresh Page after Hotel Booking Disabled](./MauiAppConfigDemo/Screenshots/HotelBookingDisabled.png)
 
 ---
 
