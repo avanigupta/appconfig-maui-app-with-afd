@@ -436,7 +436,7 @@ Refreshing app after disabling `TravelApp.HotelBooking` feature flag in App Conf
 
 - [Azure App Configuration Documentation](https://learn.microsoft.com/azure/azure-app-configuration/)
 - [.NET MAUI Documentation](https://learn.microsoft.com/dotnet/maui/)
-- [Feature Management Documentation](https://learn.microsoft.com/azure/azure-app-configuration/feature-management)
+- [Feature Management Documentation](https://learn.microsoft.com/azure/azure-app-configuration/concept-feature-management)
 - [Azure Front Door Documentation](https://learn.microsoft.com/azure/frontdoor/)
 
 ---
